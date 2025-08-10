@@ -7,9 +7,9 @@ import random
 
 # --- ВАШИ ДАННЫЕ И НАСТРОЙКИ ---
 # ВНИМАНИЕ: Хранить ключи прямо в коде небезопасно!
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
-TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
-ALPHA_VANTAGE_API_KEY = os.getenv('ALPHA_VANTAGE_API_KEY')
+TELEGRAM_TOKEN = "8302860595:AAHMnUiWWnjjqNyZa60-srUy1k_Pb_lYhz4"
+TELEGRAM_CHAT_ID = "5655533274"
+ALPHA_VANTAGE_API_KEY = "200PTA0I4ETF6GNF"
 
 # Настройки стратегии
 SYMBOL = "XAUUSD"
